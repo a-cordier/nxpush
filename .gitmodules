@@ -1,0 +1,6 @@
+[submodule "nxpush-server"]
+	path = nxpush-server
+	url = git@github.com:a-cordier/nxpush-server.git
+[submodule "nxpush-client"]
+	path = nxpush-client
+	url = git@github.com:a-cordier/nxpush-client.git
